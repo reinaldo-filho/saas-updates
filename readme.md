@@ -1,6 +1,6 @@
-# 🩺 SAAS — Sistema de Acompanhamento da Atenção à Saúde
+# 🩺 SAAS — Sistema de Apoio e Atenção à Saúde
 
-> **SaaS** (Sistema de Acompanhamento da Atenção à Saúde) é uma iniciativa voltada para **facilitar o acompanhamento dos pacientes da Atenção Primária**, com foco na **melhoria dos indicadores de desempenho** definidos pelo **Ministério da Saúde** conforme a [Portaria 2024 e suas alterações em 2025](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2025/prt6907_08_05_2025.html).
+> **SaaS** (Sistema de Apoio e Atenção à Saúde) é uma iniciativa voltada para **facilitar o acompanhamento dos pacientes da Atenção Primária**, com foco na **melhoria dos indicadores de desempenho** definidos pelo **Ministério da Saúde** conforme a [Portaria 2024 e suas alterações em 2025](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2025/prt6907_08_05_2025.html).
 
 ---
 
@@ -42,3 +42,4 @@ Este projeto não está sendo distribuiído, está sob uma **licença de uso res
 **Reinaldo Valeriano Filho**  
 📧 Contato: reinaldovalerianofilho@gmail.com
 💻 GitHub: [@ReinaldoValerianoFilho](https://github.com/ReinaldoValerianoFilho)
+
