@@ -41,5 +41,6 @@ Este projeto não está sendo distribuiído, está sob uma **licença de uso res
 
 **Reinaldo Valeriano Filho**  
 📧 Contato: reinaldovalerianofilho@gmail.com
-💻 GitHub: [@ReinaldoValerianoFilho](https://github.com/ReinaldoValerianoFilho)
+💻 GitHub: [@reinaldo-filho](https://github.com/reinaldo-filho)
+
 
